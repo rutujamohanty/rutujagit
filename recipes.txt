@@ -4,3 +4,6 @@ Recipes Below
 Khher
 Prawn curry
 Chicken Keema
+
+Crab masala --> Not sure for current version can be Updated in next Major version
+Mutton Rogan Josh ---> So for these two, creating a new Branch
